@@ -2,7 +2,8 @@
 layout: post
 title: "TEST first "
 description: ""
-category: 
+category:
 tags: []
 ---
 {% include JB/setup %}
+增加內容
