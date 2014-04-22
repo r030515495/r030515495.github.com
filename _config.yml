@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Rex Blog
-tagline:test
+#tagline:test
 author :
   name : Rex Li
   email : r030515495@gmail.com
